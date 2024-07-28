@@ -15,9 +15,9 @@ Comprehensive Analysis: Integrates different data types for a holistic diagnosti
 This project combines advanced deep learning and XAI techniques to revolutionize heart disease detection and prediction, providing healthcare professionals with accurate, transparent, and trustworthy diagnostic tools.
 
 ## Installation steps
-Prerequisites
-Python 3.7+
-Steps
+Prerequisites :Python 3.7+
+
+Steps :
 1. Clone the repository: git clone https://github.com/somu24/Multimodal-HeartDisease-CNN-XAI.git
 2. cd Multimodal-HeartDisease-CNN-XAI
 3. Install the required dependencies: pip install -r requirements.txt
